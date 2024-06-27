@@ -1,0 +1,3 @@
+NOTE:
+
+the ".amk" script in this folder goes along with "My_Medium_Articles_with_Date.csv"
