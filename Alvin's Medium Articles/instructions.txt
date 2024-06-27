@@ -1,3 +1,7 @@
 NOTE:
 
 the ".amk" script in this folder goes along with "My_Medium_Articles_with_Date.csv"
+
+settings of chrome linkedin browser is as usual (no zoom at 100% visual)
+
+make sure the scale of your windows display setting for your monitor is at 100%
